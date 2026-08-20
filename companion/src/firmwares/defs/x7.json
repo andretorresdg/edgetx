@@ -1,0 +1,19 @@
+{
+    "basedOn": [
+        "bw"
+    ],
+    "channels": {
+        "name": 4
+    },
+    "expos": {
+        "name": 6
+    },
+    "mixes": {
+        "name": 6
+    },
+    "modelSlots": 60,
+    "name": "Taranis X7 / X7S",
+    "teleCstmScrns": {
+        "fieldsPerLine": 2
+    }
+}

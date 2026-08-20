@@ -1,0 +1,28 @@
+{
+    "basedOn": [
+        "color",
+        "cpuh7"
+    ],
+    "channels": {
+        "name": 6
+    },
+    "expos": {
+        "name": 6
+    },
+    "keyShortcuts": 6,
+    "mixes": {
+        "name": 6
+    },
+    "modelImage": {
+        "filters": "*.bmp|*.jpg|*.png",
+        "name": 14
+    },
+    "modelName": 15,
+    "name": "T18 H7",
+    "quickMenuFavs": 12,
+    "sensors": 99,
+    "timers": {
+        "name": 8
+    },
+    "topBarZones": 6
+}

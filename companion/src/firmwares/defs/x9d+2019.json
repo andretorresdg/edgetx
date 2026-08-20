@@ -1,0 +1,25 @@
+{
+    "basedOn": [
+        "bw"
+    ],
+    "channels": {
+        "name": 6
+    },
+    "expos": {
+        "name": 8
+    },
+    "mixes": {
+        "name": 8
+    },
+    "modelImage": {
+        "filters": "*.bmp",
+        "name": 10
+    },
+    "modelName": 12,
+    "modelSlots": 60,
+    "name": "Taranis X9D+ 2019",
+    "sensors": 60,
+    "timers": {
+        "name": 8
+    }
+}

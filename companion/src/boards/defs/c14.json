@@ -1,0 +1,37 @@
+{
+    "basedOn": [
+        "color"
+    ],
+    "battery": {
+        "vmax": 115,
+        "vmin": 85,
+        "vwarn": 87
+    },
+    "flashSize": 2097152,
+    "modules": [
+        {
+            "internal": {
+                "available": [
+                    "xjt",
+                    "isrm",
+                    "crsf",
+                    "multi"
+                ],
+                "default": "crsf"
+            }
+        },
+        {
+            "external": {
+                "available": [
+                    "crsf",
+                    "ghost"
+                ],
+                "size": "standard"
+            }
+        }
+    ],
+    "name": "iFlight Commando 14",
+    "rotEncNav": true,
+    "trainerModuleSBUS": false,
+    "vcpSerialMode": true
+}
