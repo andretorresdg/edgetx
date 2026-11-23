@@ -64,6 +64,7 @@ Firmware::Firmware(const QString & id) :
 
 // static
 QList<QString> Firmware::m_languages = {
+  "ar",
   "cn",
   "cz",
   "da",
